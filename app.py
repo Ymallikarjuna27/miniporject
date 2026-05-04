@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Mini Data Processing Tool")
+st.title("Mini")
 
 # Upload input file
 uploaded_file = st.file_uploader(
